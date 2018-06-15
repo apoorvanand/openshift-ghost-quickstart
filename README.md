@@ -1,8 +1,7 @@
 # Ghost for OpenShift
 
 Ghost is a free, open, simple blogging platform that is available to anyone who wants to use it. 
-
-Visit the project's website at <http://ghost.org> &bull; docs on <http://support.ghost.org>.
+ the project's website at <http://ghost.org> &bull; docs on <http://support.ghost.org>.
 
 ## Running Ghost on OpenShift
 
